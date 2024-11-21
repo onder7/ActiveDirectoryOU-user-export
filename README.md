@@ -6,6 +6,7 @@ ikinci versiyonda aktif olmyana kullanıcıları verir ek olrak şifreleme seçe
 
 ![Ana Ekran](s33.jpg)
 ![Ana Ekran](ss22.jpg)
+![Ana Ekran](ss4.jpg)
 
 Active Directory İnaktif Kullanıcı Rapor Oluşturucu, belirli bir süre giriş yapmayan AD kullanıcılarını tespit eden ve raporlayan bir Python uygulamasıdır.
 Temel Özellikler:
