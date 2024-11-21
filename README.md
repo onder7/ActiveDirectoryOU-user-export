@@ -1,6 +1,9 @@
 Active Directory OU Bazlı Rapor Oluşturucu
 =====================================
 
+```markdown
+![Uygulama Resmi](user_report.jpg)
+```
 Kurulum
 -------
 1. AD_OU_Reporter.exe ve config.ini dosyalarını aynı klasöre kopyalayın
