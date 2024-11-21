@@ -1,0 +1,40 @@
+Bağımlılıklar:
+
+bashCopypip install openpyxl msoffcrypto-tool pywin32
+
+Gerekli Dosyalar:
+
+
+user.py (ana kod)
+config.ini (SMTP ayarları)
+app.ico (isteğe bağlı)
+setup.py (cx_Freeze için)
+
+
+PowerShell Yetkileri:
+
+
+Exe'yi çalıştıran kullanıcının Active Directory'de sorgu yapma yetkisi olmalı
+PowerShell script çalıştırma yetkisi olmalı
+
+
+Güvenlik Duvarı ve Antivirüs:
+
+
+Bazı antivirüs programları exe'yi yanlışlıkla tehdit olarak algılayabilir
+Gerekirse güvenilir programa eklenmeli
+
+
+Dağıtım:
+
+
+Exe ile birlikte config.ini dosyasını da dağıtmanız gerekiyor
+Kullanıcıların config.ini'yi kendi SMTP bilgileriyle güncellemesi gerekiyor
+
+Daha kompakt bir dağıtım için PyInstaller önerilir. Tek bir exe dosyası oluşturur. cx_Freeze ise daha fazla dosya içeren ama bazen daha kararlı çalışan bir dağıtım oluşturur.
+Son kurulum paketi şunları içermeli:
+
+AD_OU_Reporter.exe
+config.ini
+
+config.ini örneği yukarıda verilmiştir. Bunu kendi SMTP sunucu bilgilerinizle güncellemeniz gerekiyor.
