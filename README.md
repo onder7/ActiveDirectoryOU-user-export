@@ -38,6 +38,7 @@ Son oturum tarihi ve inaktiflik süresi
 Grup üyelikleri
 Hesap durumu (aktif/pasif)
 OU bazlı gruplandırma
+
 =====================================
 Active Directory OU Bazlı Rapor Oluşturucu Versiyon1 :
 Versiyon1 :
