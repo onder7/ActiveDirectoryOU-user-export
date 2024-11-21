@@ -2,7 +2,7 @@ Active Directory OU Bazlı Rapor Oluşturucu (Önder AKÖZ)
 =====================================
 
 ![Ana Ekran](user_report.jpg)
-
+![Ana Ekran](ss1.jpg)
 
 Kurulum
 -------
