@@ -3,6 +3,30 @@ Active Directory OU Bazlı Rapor Oluşturucu (Önder AKÖZ)
 
 ![Ana Ekran](user_report.jpg)
 
+Active Directory İnaktif Kullanıcı Rapor Oluşturucu, belirli bir süre giriş yapmayan AD kullanıcılarını tespit eden ve raporlayan bir Python uygulamasıdır.
+Temel Özellikler:
+
+İnaktif kullanıcıları belirlenen ay süresine göre filtreleme
+Domain Admin ve OU bazlı detaylı raporlama
+İnaktiflik süresini gün olarak hesaplama
+Şifrelenmiş Excel raporu oluşturma
+Otomatik e-posta gönderimi
+
+Teknik Özellikler:
+
+GUI: Tkinter kullanılarak oluşturulmuş kullanıcı arayüzü
+PowerShell entegrasyonu ile AD verilerine erişim
+Excel formatlaması ve şifreleme
+SMTP üzerinden e-posta gönderimi
+Configparser ile SMTP ayarlarının yönetimi
+
+Rapor İçeriği:
+
+Kullanıcı bilgileri (Ad, e-posta, unvan, departman)
+Son oturum tarihi ve inaktiflik süresi
+Grup üyelikleri
+Hesap durumu (aktif/pasif)
+OU bazlı gruplandırma
 
 Kurulum
 -------
