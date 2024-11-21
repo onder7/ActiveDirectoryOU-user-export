@@ -34,6 +34,7 @@ OU bazlı gruplandırma
 =====================================
 Active Directory OU Bazlı Rapor Oluşturucu Versiyon1 :
 Versiyon1 :
+
 ![Ana Ekran](user_report.jpg)
 
 Active Directory İnaktif Kullanıcı Rapor Oluşturucu, belirli bir süre giriş yapmayan AD kullanıcılarını tespit eden ve raporlayan bir Python uygulamasıdır.
