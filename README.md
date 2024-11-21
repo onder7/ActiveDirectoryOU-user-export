@@ -16,6 +16,7 @@ Gereksinimler
 - Active Directory sorgu yetkisi
 - PowerShell script çalıştırma yetkisi
 - SMTP sunucuya erişim
+- Excel yüklü olmalı (Excel yok şifreleme yapamacaktır)
 
 Kullanım
 --------
