@@ -5,7 +5,13 @@ Active Directory OU Bazlı Rapor Oluşturucu v2 (Önder AKÖZ) Versiyon2 :
 ikinci versiyonda aktif olmyana kullanıcıları verir ek olrak şifreleme seçeği eklendi
 
 ![Ana Ekran](s33.jpg)
+
+mail içeriği
+
 ![Ana Ekran](ss22.jpg)
+
+excel görseli
+
 ![Ana Ekran](ss4.jpg)
 
 Active Directory İnaktif Kullanıcı Rapor Oluşturucu, belirli bir süre giriş yapmayan AD kullanıcılarını tespit eden ve raporlayan bir Python uygulamasıdır.
